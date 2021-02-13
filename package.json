@@ -1,0 +1,34 @@
+{
+  "name": "landing_leon",
+  "version": "1.0.0",
+  "description": "Simple landing page for hockey stocks shop  \r Design - https://www.figma.com/file/9Gx89JfFMfwZ0ZtSQf9uuL/%D0%9B%D0%B5%D0%BD%D0%B4%D0%B8%D0%BD%D0%B3%236?node-id=0%3A1",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ievgenaverianov/Landing_Leon.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ievgenaverianov/Landing_Leon/issues"
+  },
+  "homepage": "https://github.com/ievgenaverianov/Landing_Leon#readme",
+  "dependencies": {
+    "gulp": "^4.0.2"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.26.14",
+    "del": "^6.0.0",
+    "gulp-autoprefixer": "^7.0.1",
+    "gulp-debug": "^4.0.0",
+    "gulp-if": "^3.0.0",
+    "gulp-newer": "^1.4.0",
+    "gulp-notify": "^3.2.0",
+    "gulp-sass": "^4.1.0",
+    "gulp-sourcemaps": "^3.0.0",
+    "multipipe": "^4.0.0"
+  }
+}
